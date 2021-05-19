@@ -18,13 +18,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="/" class="navbar-brand">Application name</a>
+                <a href="/" class="navbar-brand">Skateboarding</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="/home">Home</a></li>
                     <li><a href="/about">History</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/contact">Russian skate</a></li>
                 </ul>
             </div>
         </div>

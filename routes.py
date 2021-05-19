@@ -19,8 +19,8 @@ def home():
 def contact():
     """Renders the contact page."""
     return dict(
-        title='Contact',
-        message='Your contact page.',
+        title='Gosha',
+        message='Gosha sdelai shto nibud pojaluista!',
         year=datetime.now().year
     )
 

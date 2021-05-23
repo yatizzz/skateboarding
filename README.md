@@ -7,8 +7,6 @@ Install Visual Studio and start .sln file to use this cool website)
 ## License
 Maybe no)
 ## Authors
-Nikitina Sofia
-Grigoreva Olga
-Yakovlev Georgi
+Nikitina Sofia, Grigoreva Olga, Yakovlev Georgi)
 ### Contacts
 Check the 'Contributors')

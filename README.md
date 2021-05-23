@@ -2,13 +2,13 @@
 This website is about skateboarding)
 ## Getting Started
 To interact with this cool site, run the project on the web server)
-### Installing
+## Installing
 Install Visual Studio and start .sln file to use this cool website)
-#### License
+## License
 Maybe no)
-##### Authors
+## Authors
 Nikitina Sofia
 Grigoreva Olga
 Yakovlev Georgi
-###### Contacts
+### Contacts
 Check the 'Contributors')

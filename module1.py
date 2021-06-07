@@ -19,6 +19,7 @@ re_mail=r"^\w+@\w+(\.\w+)+$"
 re_date = r"^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
 re_phone='(\d{3}[-\.\s]??\d{3}[-\.\s]??\d{4}|\(\d{3}\)\s*\d{3}[-\.\s]??\d{4}|\d{3}[-\.\s]??\d{4})'
 
+
 #проверка имейла
 def author_email_correct(email):
     return re.match(re_mail,email) is not None

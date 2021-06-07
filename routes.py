@@ -33,3 +33,12 @@ def about():
         message='The history of skateboarding',
         year=datetime.now().year
     )
+# Обработка роута на страницу с отзывами
+@route('/reviews')
+@view('reviews')
+def reviews():
+    return dict(
+        title='Reviews',
+        message='Here you can see reviews',
+        year=datetime.now().year
+    )
